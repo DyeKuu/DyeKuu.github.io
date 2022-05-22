@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Personal Page</title>
+    <link>https://dyekuu.github.io/</link>
+    <description>Recent content on My Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 May 2022 20:50:09 +0800</lastBuildDate><atom:link href="https://dyekuu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://dyekuu.github.io/posts/my-first-post/</link>
+      <pubDate>Sun, 22 May 2022 20:50:09 +0800</pubDate>
+      
+      <guid>https://dyekuu.github.io/posts/my-first-post/</guid>
+      <description>hello I&amp;rsquo;m Kunhao!ß</description>
+    </item>
+    
+  </channel>
+</rss>
