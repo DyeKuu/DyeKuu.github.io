@@ -1,0 +1,4 @@
+baseURL = 'https://dyekuu.github.io/'
+languageCode = 'en-us'
+title = 'My Personal Page'
+theme = "ananke"
