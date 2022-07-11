@@ -35,5 +35,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-hello I'm Kunhao!ß
+hello I'm Kunhao!
 

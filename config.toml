@@ -63,7 +63,7 @@ weight = 2
 
 [[menu.main]]
 name = "Research"
-url = "/about"
+url = "/research/overview"
 weight = 2
 
 [[menu.main]]
