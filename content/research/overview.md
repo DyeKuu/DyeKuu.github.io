@@ -13,10 +13,10 @@ My goal is to demonstrate that deep learning systems, when interacting with othe
 [[blog]](https://openai.com/blog/formal-math/)  
 Stanislas Polu, Jesse Michael Han, Kunhao Zheng, Mantas Baksys, Igor Babuschkin, Ilya Sutskever
 
-[Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) (2021)  
+[Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/abs/2112.04478) (2021) [ECCV22]   
 [[site]](https://ju-chen.github.io/efficient-prompt/)  
 Chen Ju, Tengda Han, Kunhao Zheng, Ya Zhang, Weidi Xie
 
-[MiniF2F: a cross-system benchmark for formal Olympiad-level mathematics](https://arxiv.org/abs/2109.00110) (2021)   
+[MiniF2F: a cross-system benchmark for formal Olympiad-level mathematics](https://arxiv.org/abs/2109.00110) (2021) [ICLR22]    
 [[poster video]](https://iclr.cc/virtual/2022/poster/6258)  
 Kunhao Zheng, Jesse Michael Han, Stanislas Polu
