@@ -79,5 +79,5 @@ weight = 3
 
 [[menu.main]]
 name = "Gallery"
-url = "/tags"
+url = "/gallery"
 weight = 4
