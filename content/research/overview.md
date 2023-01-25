@@ -13,6 +13,7 @@ My goal is to demonstrate that deep learning systems, when interacting with othe
 Tianbo Li, Min Lin, Zheyuan Hu, Kunhao Zheng, Giovanni Vignale, Kenji Kawaguchi, A.H. Castro Neto, Kostya S. Novoselov, Shuicheng Yan
 
 [HloEnv: A Graph Rewrite Environment for Deep Learning Compiler Optimization Research](https://openreview.net/forum?id=3gsBTrhZXr) (2022) [NeurIPS22 MLSys Workshop]  
+[[library]](https://github.com/sail-sg/hloenv)
 Chin Yang Oh*, Kunhao Zheng*, Bingyi Kang, Xinyi Wan, Zhongwen Xu, Shuicheng Yan, Min Lin, Yangzihao Wang
 
 [Formal Mathematics Statement Curriculum Learning](https://arxiv.org/abs/2202.01344) (2022) [ICLR23 Spotlight] 
