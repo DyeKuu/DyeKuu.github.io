@@ -38,13 +38,25 @@ editPost:
 <!-- insert image of myself in markdown-->
 ![](/images/kunhao.jpeg)
 
-I am a 4th-year student in École Polytechnique in France, enrolled in the "[Cycle Ingénieur](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program)" Program. I am also a 2nd-year Master student in Shanghai Jiao Tong University as part of my double-degree program supervised by [Ya Zhang](https://mediabrain.sjtu.edu.cn/yazhang/). I am currently working as a research intern at [Sea AI Lab](https://sail.sea.com/) in Singapore, under the guidance of [Lin Min](https://scholar.google.com.sg/citations?user=BGONmkIAAAAJ&hl=en) and [Wang Yangzihao](https://yzhwang.github.io/). I am working on a project that accelerates deep learning compiler (XLA) optimization and other interesting stuffs. Before that, I was an intern in [OpenAI](https://openai.com/) and participated in 
-[building an AI that proves mathematics theorem](https://openai.com/blog/formal-math/), under the guidance of [Stanislas Polu](https://spolu.vercel.app/) and [Jesse Michael Han](https://jesse-michael-han.github.io/).
+I am a 4th-year student in École Polytechnique in France, enrolled in the "[Cycle Ingénieur](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program)" Program. I am also a 2nd-year Master student in Shanghai Jiao Tong University as part of my double-degree program supervised by [Ya Zhang](https://mediabrain.sjtu.edu.cn/yazhang/). Before École Polytechnique, I obtained my Bachelor degree in a Sino-French [prépa](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) institute in Shanghai Jiao Tong University, where I received intense training of mathematics and physics in French for the entrance to the [Grand École](https://en.wikipedia.org/wiki/Grande_%C3%A9cole). 
 
-Before École Polytechnique, I obtained my Bachelor degree in a Sino-French [prépa](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) institute in Shanghai Jiao Tong University, where I received intense training of mathematics and physics in French for the entrance to the [Grand École](https://en.wikipedia.org/wiki/Grande_%C3%A9cole). 
+I am currently working as a research intern in a full-time manner at [Sea AI Lab](https://sail.sea.com/) in Singapore, under the guidance of [Lin Min](https://scholar.google.com.sg/citations?user=BGONmkIAAAAJ&hl=en) and [Wang Yangzihao](https://yzhwang.github.io/). I am working on a project that turns XLA into an RL environment [HloEnv](https://github.com/sail-sg/hloenv) and accelerates deep learning compiler (XLA) optimization. I am also working on a project bridging deep learning and quantum chemistry, which is a joint work with Nobel Laureate Kostya Novoselov.
 
-My education gives me training of general background of computer science and mathematics before getting into deep learning. Thanks to [Oana Balalau](https://oanabalalau.com/) and [Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), I had my first contact with research in machine learning in [INRIA](https://www.inria.fr/en) late 2020. I always believe that a good and solid research project in the field of deep learning contains both nice ideas and good engineering efforts. This thought is furthured shaped along my trajectory in Stockly, OpenAI & Sea AI Lab, where I saw and learned a lot about people building cool things in Rust, [Lean](https://en.wikipedia.org/wiki/Lean_(proof_assistant)), C++.
+Before that, I did my 6-month research internship in [OpenAI](https://openai.com/) and participated in [building an LLM that proves mathematics theorem](https://openai.com/blog/formal-math/), under the guidance of [Stanislas Polu](https://spolu.vercel.app/) and [Jesse Michael Han](https://jesse-michael-han.github.io/).
 
+My education gives me training of general background of computer science and mathematics before getting into deep learning. Thanks to [Oana Balalau](https://oanabalalau.com/) and [Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), I had my first contact with research in machine learning in [INRIA](https://www.inria.fr/en) late 2020.
+
+## My Interests
+
+I always believe that a good and solid research project in the field of deep learning contains both nice ideas and good engineering efforts. This thought is further shaped along my trajectory in Stockly, OpenAI & Sea AI Lab, where I saw and learned a lot about people building cool things in Rust, [Lean](https://en.wikipedia.org/wiki/Lean_(proof_assistant)), C++. I am also trying to shape myself into someone who is good at both research and engineering.
+
+My research interests are in the field of deep learning, especially in the intersection of deep learning and other fields. My goal is to demonstrate that deep learning systems are capable of much more than they can do today especially when they are combined with other fields, such as formal mathematics, quantum chemistry, and compiler optimization.
+
+The folks in Sea AI Lab make me believe that open-source-driven research (with rigorous code review), rather than paper-driven research, is the future and will benefit the whole community.
+
+## What I have learned recently
+
+I am currently learning bazel to build a library [jax-xc](https://github.com/sail-sg/jax_xc) that self-generates its own Python code and C++ code from Maple: All is done in build-time! 
 
 ## Fun Facts
 I was part of the fencing team in École Polytechnique, specialised in Epée. And I was the first one to be knocked out in my team in a regional competition by 0-15.
